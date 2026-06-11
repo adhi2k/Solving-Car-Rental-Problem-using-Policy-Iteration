@@ -1,6 +1,5 @@
 # Ex-3: Solving-Car-Rental-Problem-using-Policy-Iteration
-### Name : Adhithya K
-### reg no : 2305002001
+
 
 ## Aim:
 To implement the Policy Iteration Algorithm for solving the Car Rental Problem in Reinforcement Learning and determine the optimal policy that maximizes expected rewards.
